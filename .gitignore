@@ -1,0 +1,10 @@
+# C build files
+*.d
+*.o
+*.map
+*.elf
+*.hex
+
+# OS generated files #
+######################
+.DS_Store
