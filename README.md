@@ -23,7 +23,7 @@ Please **don't change** name of of SDK folder, currently the projects are relied
 
 We will use [Ac6 System Workbench for STM32](https://www.openstm32.org/Downloading%2Bthe%2BSystem%2BWorkbench%2Bfor%2BSTM32%2Binstaller) as IDE with free GNU GCC for Arm compiler, you will need to create a free account to able to download, please select correct installation package for coressponding OS.
 
-After installation, can open and import project located in `repo_folder/firmware/main_mcu/application/SW4STM32, can refer to this [example](https://www.youtube.com/watch?v=oa95SuiNPcY) or this [tutorial](https://www.ecse.rpi.edu/courses/F18/ECSE-4790/Documents/STM32%20Workbench%20Install%20and%20Usage%20Guide.pdf).
+After installation, can open and import project, can refer to this [example](https://www.youtube.com/watch?v=oa95SuiNPcY) or this [tutorial](https://www.ecse.rpi.edu/courses/F18/ECSE-4790/Documents/STM32%20Workbench%20Install%20and%20Usage%20Guide.pdf).
 
 ## Files Description
 
